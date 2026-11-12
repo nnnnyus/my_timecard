@@ -1,12 +1,12 @@
-function startbutton(){
+function start(){
     alert('出勤しました');
 }
-function ofbutton(){
+function of(){
     alert('休憩を開始します');
 }
-function onbutton(){
+function on(){
     alert('休憩を終了します');
 }
-function finishbutton(){
+function finish(){
     alert('退勤しました');
 }

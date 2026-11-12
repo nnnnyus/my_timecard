@@ -1,4 +1,10 @@
+/*文字色*/
 h1{
     color: black;
 }
 
+/*ボタンのサイズ*/
+button{
+    padding: 20px 30px; 
+    font-size: 25px;
+}
