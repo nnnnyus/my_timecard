@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e">
+    <diagram id="-DTBKGskzeU0H_w8Bytp" name="ページ-1">
+        <mxGraphModel dx="1582" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;タイムカード&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="110" x="40" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;出勤する&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="退勤する" vertex="1">
+                    <mxGeometry height="60" width="120" x="520" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="休憩する" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="✅出勤ボタンを押す" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="勤務表を確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="680" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="✅休憩開始ボタンを押す" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="✅退勤ボタンを押す" vertex="1">
+                    <mxGeometry height="60" width="120" x="520" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="✅勤務表一覧ボタンを押す" vertex="1">
+                    <mxGeometry height="60" width="120" x="680" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="出勤時間を記録" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="退勤時間を記録" vertex="1">
+                    <mxGeometry height="60" width="120" x="520" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="休憩時間を記録" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="出勤＋退勤-休憩時間&lt;br&gt;＝勤務時間" vertex="1">
+                    <mxGeometry height="60" width="120" x="520" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="✅休憩終了ボタンを押す" vertex="1">
+                    <mxGeometry height="60" width="120" x="360" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="日付ごとの記録を表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="680" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-21" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="40" y="200" as="sourcePoint"/>
+                        <mxPoint x="800" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-22" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="40" y="300" as="sourcePoint"/>
+                        <mxPoint x="800" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-23" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="40" y="400" as="sourcePoint"/>
+                        <mxPoint x="800" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-24" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;ウォーキングスケルトン&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="110" x="-110" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-25" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="勤務表&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="110" x="-110" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="iJGhICO3j0ZWwNk5vD4m-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;ユーザ：&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;アプリ操作の苦手な人&lt;/b&gt;" vertex="1">
+                    <mxGeometry height="40" width="120" x="40" y="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="teJldtsxhlSVRrMOT-Fe-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+                    <mxGeometry height="30" width="60" x="180" y="-60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

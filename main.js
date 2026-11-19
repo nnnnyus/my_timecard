@@ -10,3 +10,4 @@ function on(){
 function finish(){
     alert('退勤しました');
 }
+
