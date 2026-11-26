@@ -1,17 +1,27 @@
 <!DOCTYPE html>
 <html lang="ja"
 <head>
-    <script src="main.js"></script>
+    <script src="main.js" defer></script>
     <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <title>簡単タイムカード</title>
 </head>
 <body>
     <h1>打刻してください</h1>
+   <!--
     <button id="syukkin" onclick="start()">出勤</button>
     <button id="kyuukeion" onclick="of()">休憩開始</button>
     <button id="kyuukeiof" onclick="on()">休憩終了</button>
     <button id="taikin" onclick="finish()">退勤</button>
+   -->
+
+<button type="button" class="save_btn1">出勤</button>
+
+<button type="button" class="save_btn2">休憩開始</button>
+
+<button type="button" class="save_btn3">休憩終了</button>
+
+<button type="button" class="save_btn4">退勤</button>
 
     <h1>勤務表</h1>
     <button id="kinmu" onclick="button()">勤務表</button>
